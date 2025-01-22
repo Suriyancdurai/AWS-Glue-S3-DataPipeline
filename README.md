@@ -40,11 +40,6 @@ This project showcases **how to build a scalable, automated ETL pipeline** using
 
 ---
 
-## **🖼️ Screenshots**
-### **AWS Glue Workflow Visual Editor**  
-![Glue Workflow](path/to/glue-workflow-screenshot.png)
-
----
 
 ## **📚 References**
 - [AWS Glue Official Documentation](https://docs.aws.amazon.com/glue/)  
