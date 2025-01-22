@@ -14,7 +14,7 @@ This project showcases **how to build a scalable, automated ETL pipeline** using
 ---
 
 ## **🔧 Architecture**
-![ETL Architecture](path/to/architecture-diagram.png)
+![ETL Architecture]([path/to/architecture-diagram.png](https://github.com/Suriyancdurai/AWS-Glue-S3-DataPipeline/blob/main/01.AWS-Glue-S3-Athena-DataPipeline%20Diagram.png))
 
 1. **Raw Data**: Uploaded to an **S3 bucket**.
 2. **Schema Discovery**: Handled by **AWS Glue Crawlers** to create a **data catalog**.
